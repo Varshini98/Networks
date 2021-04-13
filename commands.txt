@@ -1,6 +1,0 @@
-
-awk -f drp_pck.awk out.tr
-
-xgaph tcpdrp.tr  cbrdrp.tr totdrp.tr
-
-print " the time=",time
